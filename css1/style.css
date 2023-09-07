@@ -1,0 +1,107 @@
+.main{
+    background-color: rgb(229, 234, 245);
+    padding:10px
+
+}
+.para{
+    margin:40px 63px;
+    padding: 25px;
+    display: inline-block;
+}
+.dox{
+    background-color:aliceblue;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.box{
+    background-color:aliceblue;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.cycling{
+    background-color: aliceblue;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.main2{
+    background-color: rgb(229, 234, 245);
+    padding:10px;
+}
+.para2{
+    margin:40px 95px;
+    padding: 25px;
+    display: inline-block;
+}
+.phrase{
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+.mining{
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+.phrase img{
+    width: 400px;
+    border-radius: 30px;
+}
+.mining img{
+    width: 400px;
+    border-radius: 30px;
+}
+.phrase p{
+    font-size: 20px;
+    font-family: arial;
+}
+.mining p{
+    font-size: 20px;
+    font-family: arial;
+}
+h2{
+    font-size: 22px;
+    line-height: 38px;
+    font-family: arial;
+    color:crimson;
+}
+a{
+    text-align: justify;
+    width: 250px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-family: arial,sans-serif;
+
+}
+p{
+    font-size: 25px;
+    font-family: cursive;
+    color: darkorange;
+}
+span{
+    text-decoration: line-through;
+    font-size: 18px;
+    color: brown;
+    font-family: arial;
+}
+.phrase p span{
+    font-size: 13px;
+    color: #787a82;
+    text-decoration: none;
+}
+.mining p span{
+    font-size: 13px;
+    color: #787a82;
+    text-decoration: none;
+}
+.course{
+    color:black;
+    font-family: monospace !important;
+}
+button{
+    color:red;
+    background:linear-gradient(to right,dodgerblue,white);
+    font-size: 17px;
+    width:165px;
+    border-radius: 20px;
+    position: relative;
+
+}
